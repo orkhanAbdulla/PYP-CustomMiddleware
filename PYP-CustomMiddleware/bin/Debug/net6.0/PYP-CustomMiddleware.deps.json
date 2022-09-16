@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "PYP-CustomMiddleware/1.0.0": {
+        "runtime": {
+          "PYP-CustomMiddleware.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PYP-CustomMiddleware/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
